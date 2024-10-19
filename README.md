@@ -1,2 +1,2 @@
-# mygitrepo
-This is github repo
+# GITHUB COMMANDS
+This helps who dont know about github
